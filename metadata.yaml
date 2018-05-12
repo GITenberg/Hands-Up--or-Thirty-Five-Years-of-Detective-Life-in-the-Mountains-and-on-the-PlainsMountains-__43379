@@ -1,0 +1,32 @@
+_repo: Hands-Up--or-Thirty-Five-Years-of-Detective-Life-in-the-Mountains-and-on-the-PlainsMountains-__43379
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43379-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cook, D. J.‏ ‎(David J.)
+    alias: Cook, David J.
+    birthdate: 1840
+    deathdate: 1907
+    gutenberg_agent_id: '42166'
+    url: http://www.gutenberg.org/2009/agents/42166
+description: ''
+gutenberg_issued: '2013-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cook, D. J. (David J.) 1840-1907'
+- !lcsh 'Denver (Colo.) -- History'
+- !lcc 'HV'
+- !lcsh 'Crime -- West (U.S.) -- History'
+- !lcsh 'Criminals -- West (U.S.) -- History'
+title: "Hands Up; or, Thirty-Five Years of Detective Life in the Mountains and on\
+  \ the Plains\r\nReminiscences by General D. J. Cook, Chief of the Rocky Mountains\
+  \ Detective Association"
+url: http://www.gutenberg.org/ebooks/43379
